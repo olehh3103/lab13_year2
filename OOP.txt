@@ -1,4 +1,4 @@
-.github/workflows/ci.yaml
+.ci.yaml
 
 name: Java CI
 
